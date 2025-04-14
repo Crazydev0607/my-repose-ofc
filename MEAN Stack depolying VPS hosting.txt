@@ -1,0 +1,99 @@
+Hosting a MEAN App on a VPS Server from Start to Finish (Complete VPS Setup):
+
+
+GreatStack:
+
+How To Deploy Full Stack Project on Hostinger VPS Hosting | Deploy MERN APP on VPS Server -> 
+https://youtu.be/o2J_jdKBLI4?si=g7LZPlzSMzeQ1yOW
+
+best youtube details MEAN stack -> git access with deploying
+
+-------------------------------------------------------------------------------------------------
+
+Programming Experience:
+
+Create MongoDB Atlas and Host Subscription API Project in Node JS | Host Node JS APIs on CPanel -> 
+https://youtu.be/H7SbhH_PxFc?si=sYZs87B6S06lfGbU
+
+AWS mongodb with file manage access in backend api connection
+
+
+------------------------------------------------------------------------------
+
+Full Node.js Deployment to AWS - FREE SSL, NGINX | Node js HTTPS Server
+
+https://youtu.be/yhiuV6cqkNs?si=ClY3MYDOtCAeJBkd
+
+---------------------------------------------------------------------------
+
+How to Setup or Create Node JS Applications on Live Server by CPANEL - NodeJS Server Setup on Cpanel
+
+
+cpanel new file admin based => https://youtu.be/qvcQEywCwig?si=Rv_SmiGc0u-GDpHz
+
+
+
+------------------------------------------------------------------------------------
+
+How to Deploy Node.js App on VPS for Beginners | UltaHost
+
+how to setup ip based nodejs run  => https://youtu.be/IbJMb-qsgaY?si=6udIWUPbIqCSNZJC
+
+
+------------------------------------------------------------------------------------
+Deploy NodeJS Application on AWS - Amazon Web Services | NodeJS
+
+AWS depoly nodejs => https://youtu.be/_U0pTlpyMGg?si=bTZG-pSVFAgQugti
+
+
+---------------------------------------------------------------------------------------
+
+Deploy MERN Stack App On AWS EC2 Using GitHub Actions
+
+https://youtu.be/MmidULYvjYE?si=uUsuuX2BmmMn61hM
+
+---------------------------------------------------------------------------------------
+
+How To Deploy Full Stack React App For Free | Deploy MERN Stack Project In 10 Minutes
+
+Depoly in Render => MERN GIT => https://youtu.be/cVEOhgPziO8?si=2rX0yaUbTOG7PlUb
+
+
+---------------------------------------------------------------------------------------
+
+Deploy Node.js and React Apps | Full Deployment /w Nginx VPS, SSL
+
+Deploy Node.js => https://youtu.be/Nxw2j1-srVc?si=F0NqQCaUq8oC2-yU
+
+
+---------------------------------------------------------------------------------------
+
+Installing MongoDB on the VPS server: 07 - Connecting to MongoDB
+
+AWS -> free server  -> https://youtu.be/lHylGMOmhFA?si=onmvvmfYB_kr_zZK 
+
+---------------------------------------------------------------------------------------
+
+Deploying your FREE web service using Render, MongoDB Atlas, and Github
+
+Free server with momgodb cloud and Render -> https://youtu.be/RMNWJ-_8SUU?si=QnAjQ1u1i1y4AYgd
+
+
+---------------------------------------------------------------------------------------
+
+https://scalegrid.io/ -> deploy all server in one week free other wise amount 
+
+
+---------------------------------------------------------------------------------------
+
+What is Sub Domain and How to Create Sub Domain in Godaddy & Hostinger
+
+Create subdomain in cpanel => https://youtu.be/lUAkxX-gsdo?si=S5N9wQeOQ_DdDFbb
+
+
+---------------------------------------------------------------------------------------
+
+mongodb community version free the access in local host
+
+
+---------------------------------------------------------------------------------------

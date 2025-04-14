@@ -1,0 +1,14 @@
+Hostinger setup in vadakan
+https://youtu.be/xmVBG8E7Dkc?si=elVAlZUplhZs-SJx
+
+Easily Deploy Full Stack Node.js Apps on AWS EC2
+https://www.youtube.com/watch?v=nQdyiK7-VlQ
+
+AWS EC2 Deployment Guide: Node.js App with MongoDB Atlas Setup
+https://www.youtube.com/watch?v=dBhZxYeGeQs
+
+Connect Node.js App with MongoDB on AWS EC2
+https://www.youtube.com/watch?v=hObt1vTjsKE&utm_source=chatgpt.com
+
+AWS EC2 Instance Setup and Run MongoDB in EC2
+https://www.youtube.com/watch?v=8IogH1o25bA&utm_source=chatgpt.com
